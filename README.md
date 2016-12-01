@@ -1,2 +1,2 @@
-# eeg-emergent-reactions
+# emergent-reactions
 Human Reactions Under Emergent
